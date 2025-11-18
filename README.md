@@ -49,35 +49,6 @@ cd Slayerconnect/frontend
 # open index.html or run a static server (Live Server / serve)
 ```
 
-### 2) Kangaroo Runner — Browser game (p5.js)
-
-An arcade-style endless-runner game built with p5.js and p5.play. Collect points, avoid obstacles, and enjoy responsive gameplay with sprite animations and sound effects. Great showcase of interactive front-end and game logic.
-Demo: open index.html in the repo · Repo: https://github.com/Vedant1703/Kangaroo-Runner
-Tech: HTML, CSS, JavaScript, p5.js, p5.play.
-Quick run:
-```bash
-git clone https://github.com/Vedant1703/Kangaroo-Runner.git
-cd Kangaroo-Runner
-# open index.html in browser or use a static server
-```
-### 3) SlingShot (proc30-slingShot) — Physics-based mini-game
-
-A small physics-powered slingshot game (part of a proc30-style build). Uses a physics library plus p5/matter-style integration to create draggable slingshot mechanics and blocks to topple. Clean, educational, and fun to tinker with.
-Demo: open index.html in the repo · Repo: https://github.com/Vedant1703/proc30-slingShot
-Tech: HTML, CSS, JavaScript, p5 / Matter-like physics.
-Quick run:
-```bash
-git clone https://github.com/Vedant1703/proc30-slingShot.git
-cd proc30-slingShot
-# open index.html in browser or run a static server
-```
-
-🎬 Profile Showcase Video
-
-
-[![Watch Demo](https://img.youtube.com/vi/qUAsC4pRfMQ/0.jpg)](https://youtu.be/qUAsC4pRfMQ)
-
-
 📈 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vedant1703&show_icons=true&theme=tokyonight" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant1703&theme=tokyonight" /> </p>
 ✉️ Contact
